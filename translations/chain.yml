@@ -16,5 +16,3 @@ examples:
       execution: |
         drupal chain \
           --file="/path/to/file/chain-file.yml"
-
-    
